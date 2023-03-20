@@ -1,0 +1,139 @@
+
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>WEEK2</title>
+	
+<style>
+	.box{
+	width: 80%;
+	height: 200px;
+	background: #6479B0;
+	margin: 20px auto;	
+	border: dashed;
+	border-width: 3px	
+	}
+	
+</style>
+<style>
+	#box{
+	width: 80%;
+	height: 200px;
+	background: red;
+	margin: 20px auto;	
+	}
+	
+</style>
+<style>
+	.table{
+	width: 80%;
+	height: 200px;
+	background-color: gray;
+	margin: 2px auto;
+	border: double;
+		
+		
+	}
+	th, td{
+		
+		
+		padding: 8px;
+		text-align: left;
+		border-bottom: 1px solid #6479B0;
+	}
+	
+	
+	
+	</style>
+</head>
+<body>
+<div>
+		<div class="box">	
+		<h1 align="center", style="color: blue">HeadingTest</h1>
+		<p align="center">This is a test</p>	
+	</div>
+<div>
+		<div class="box">
+		<h2 align="center">HeadingTest2</h2>
+		<p align="center">Teehee I figured it out!!</p>	
+	</div>
+<div>
+		<div id="box">
+		<h3 align="center">HeadingTest3</h3>
+		<p align="center">Imagine if I had a real weapon</p>	
+	</div>
+<div>
+	<div class="box">
+	<h3 align="center">Heading4Test</h3>
+	<p align="center">This is super easy once you get the hang of it</p>
+	
+	</div>
+	
+<div>
+	<div class="box">
+	<h3 align="center">Heading5Test</h3>
+	<p align="center">One day I hope I get good at coding</p>
+	
+	</div>	
+<div>
+		<div id="box">
+		<h2 align="center">HeadingTest6</h2>
+		<p align="center">I need a Pepsi</p>	
+	</div>	
+	
+<div>
+	<table class="table" cellpadding="5px" cellspacing="5px" frame="border">
+	<tr align="center">
+		<th bgcolor="#525C47">Graph</th>
+		</tr>
+		
+	<tr bgcolor="#E70003">
+		<th align="center">Info 1</th>
+		<td align="center">asdlksj</td>
+		<td align="center">asdflkj</td>
+		
+		</tr>
+		
+	<tr bgcolor="#1E4F1E" bordercolor="#B02326">
+		<th align="center">Info 2</th>
+		<td align="center">asdfsldkjaslj</td>
+		
+		</tr>
+	
+	
+	</table>
+	
+	
+	</div>
+	
+<table align="center">
+	<tr>
+		<td>01</td>
+		<td>02</td>
+		<td>03</td>
+	</tr>
+	<tr>
+		<td> Aa</td>
+		<td> Bb</td>
+		<td> Cc</td>
+	</tr>
+	</table>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</body>
+</html>
+WEEK2.html
+Displaying WEEK2.html.
